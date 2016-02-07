@@ -1,6 +1,7 @@
 {
 	"name": "redux-thunk",
 	"ambient" : false,
+	"main":"redux-thunk.d.ts",
 	"dependencies": {
 		"redux": "github:andrew-w-ross/typings-redux"
 	},
